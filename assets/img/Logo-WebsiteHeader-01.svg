@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <image width="1080" height="2400" transform="translate(384.62 -113.7)" xlink:href="D:\Users\Arjun Zala\Downloads\Screenshot_2023-04-21-05-37-07-94_c19693ea0c6dd28faee3c26549547ea7.jpg"/>
+  <polygon class="cls-1" points="-253.89 792.97 -55.47 1189.82 29.57 1189.82 -253.89 622.89 -537.36 1189.82 -452.32 1189.82 -253.89 792.97"/>
+</svg>
